@@ -1,0 +1,14 @@
+D:\ARK\Documents\Practice\Properties\Properties_Example\bin\Debug\netcoreapp3.1\Properties_Example.exe
+D:\ARK\Documents\Practice\Properties\Properties_Example\bin\Debug\netcoreapp3.1\Properties_Example.deps.json
+D:\ARK\Documents\Practice\Properties\Properties_Example\bin\Debug\netcoreapp3.1\Properties_Example.runtimeconfig.json
+D:\ARK\Documents\Practice\Properties\Properties_Example\bin\Debug\netcoreapp3.1\Properties_Example.runtimeconfig.dev.json
+D:\ARK\Documents\Practice\Properties\Properties_Example\bin\Debug\netcoreapp3.1\Properties_Example.dll
+D:\ARK\Documents\Practice\Properties\Properties_Example\bin\Debug\netcoreapp3.1\Properties_Example.pdb
+D:\ARK\Documents\Practice\Properties\Properties_Example\obj\Debug\netcoreapp3.1\Properties_Example.csproj.AssemblyReference.cache
+D:\ARK\Documents\Practice\Properties\Properties_Example\obj\Debug\netcoreapp3.1\Properties_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARK\Documents\Practice\Properties\Properties_Example\obj\Debug\netcoreapp3.1\Properties_Example.AssemblyInfoInputs.cache
+D:\ARK\Documents\Practice\Properties\Properties_Example\obj\Debug\netcoreapp3.1\Properties_Example.AssemblyInfo.cs
+D:\ARK\Documents\Practice\Properties\Properties_Example\obj\Debug\netcoreapp3.1\Properties_Example.csproj.CoreCompileInputs.cache
+D:\ARK\Documents\Practice\Properties\Properties_Example\obj\Debug\netcoreapp3.1\Properties_Example.dll
+D:\ARK\Documents\Practice\Properties\Properties_Example\obj\Debug\netcoreapp3.1\Properties_Example.pdb
+D:\ARK\Documents\Practice\Properties\Properties_Example\obj\Debug\netcoreapp3.1\Properties_Example.genruntimeconfig.cache

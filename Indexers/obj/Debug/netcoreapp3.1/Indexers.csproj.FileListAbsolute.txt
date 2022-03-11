@@ -1,0 +1,14 @@
+D:\ARK\Documents\Practice\Properties\Indexers\obj\Debug\netcoreapp3.1\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARK\Documents\Practice\Properties\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfoInputs.cache
+D:\ARK\Documents\Practice\Properties\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfo.cs
+D:\ARK\Documents\Practice\Properties\Indexers\obj\Debug\netcoreapp3.1\Indexers.csproj.CoreCompileInputs.cache
+D:\ARK\Documents\Practice\Properties\Indexers\bin\Debug\netcoreapp3.1\Indexers.exe
+D:\ARK\Documents\Practice\Properties\Indexers\bin\Debug\netcoreapp3.1\Indexers.deps.json
+D:\ARK\Documents\Practice\Properties\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.json
+D:\ARK\Documents\Practice\Properties\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.dev.json
+D:\ARK\Documents\Practice\Properties\Indexers\bin\Debug\netcoreapp3.1\Indexers.dll
+D:\ARK\Documents\Practice\Properties\Indexers\bin\Debug\netcoreapp3.1\Indexers.pdb
+D:\ARK\Documents\Practice\Properties\Indexers\obj\Debug\netcoreapp3.1\Indexers.dll
+D:\ARK\Documents\Practice\Properties\Indexers\obj\Debug\netcoreapp3.1\Indexers.pdb
+D:\ARK\Documents\Practice\Properties\Indexers\obj\Debug\netcoreapp3.1\Indexers.genruntimeconfig.cache
+D:\ARK\Documents\Practice\Properties\Indexers\obj\Debug\netcoreapp3.1\Indexers.csproj.AssemblyReference.cache
